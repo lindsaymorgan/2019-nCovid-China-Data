@@ -16,7 +16,7 @@ import math
 import matplotlib.style
 import matplotlib as mpl
 import csv
-
+  
 
 def show_recovery_rate():
     plt.figure(figsize=(12,10))
